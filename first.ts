@@ -5,3 +5,6 @@ function getFullName(firstName, lastname) {
 function add(firstName, lastname) {
     return firstName + lastName
 }
+
+
+return 1;
